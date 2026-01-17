@@ -14,7 +14,7 @@ The journal server uses the custom RDBMS for data persistence, providing a compl
 
 - **Go** 1.25 or later
 - **Node.js** 18 or later
-- **Git** for cloning
+
 
 ## Quick Start
 
@@ -136,6 +136,3 @@ See [go-rdbms/README.md](go-rdbms/README.md) for complete database documentation
 - Check file permissions in the data directories
 - Use the REPL interface for direct database testing
 
-## License
-
-This project includes custom-built database components and a full-stack journal application for educational and development purposes.
